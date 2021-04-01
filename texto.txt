@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 este es un texto para los ejercicios y ahora estoy nuevamente a la branch main
+=======
+este es un texto para los ejercicios
+Ahora le sumo otra linea para poder hacer un commit en branch1
+>>>>>>> branch1
